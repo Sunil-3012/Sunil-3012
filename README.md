@@ -39,12 +39,7 @@ I'm currently pursuing my Master’s degree, while working on real-world project
 
 ---
 
-## 📈 Stats & Activity
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil-3012&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil-3012&layout=compact&theme=radical)
-
----
 
 ## 📬 Get in Touch
 
