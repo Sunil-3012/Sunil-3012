@@ -26,12 +26,14 @@ I'm currently pursuing my Master’s degree, while working on real-world project
 ## 📂 Featured Repositories
 
 ### 🔧 DevOps Projects
+- [**Netflix-clone-project**](https://github.com/Sunil-3012/Netflix-Clone-Project) - A DevSecOps Pipeline Deployed on EKS using GitHub, Jenkins, Terraform, SonarQube, Prometheus and Grafana
 - [**HotStar-DevSecOps**](https://github.com/yourusername/HotStar-DevSecOps) – Full CI/CD pipeline deploying a Hotstar clone using Jenkins, Docker, EKS & SonarQube  
 - [**Jenkins-Pipeline**](https://github.com/yourusername/Jenkins-Pipeline) – End-to-end Jenkins pipeline with Ansible, Maven, and multi-env deployments  
 - [**devopsscripts**](https://github.com/yourusername/devopsscripts) – Useful shell scripts for server automation and provisioning  
 - [**Serverless-Employee-Management-System-on-AWS-**](https://github.com/yourusername/Serverless-Employee-Management-System-on-AWS-) – Lambda + API Gateway serverless application  
 
 ### ☁️ AWS Cloud Projects
+- [****]
 - [**Application-Migration-using-AWS-MGN**](https://github.com/yourusername/Application-Migration-using-AWS-MGN) – Real-world on-prem to AWS server migration using AWS MGN  
 - [**AWS-Transfer-Family-Integration-Project**](https://github.com/yourusername/AWS-Transfer-Family-Integration-Project) – Secure file transfers into S3  
 - [**AWS-Storage-Gateway-Project**](https://github.com/yourusername/AWS-Storage-Gateway-Project-Simulating-On-Premises-to-AWS-Data-Transfer) – Simulated hybrid storage setup  
@@ -45,7 +47,7 @@ I'm currently pursuing my Master’s degree, while working on real-world project
 
 - 📧 Email: gangupamu.sunil30@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunil-gangupamu-16487b227/)
-- 📄 [Resume](http://resume-bucket-sunil.s3-website-us-east-1.amazonaws.com/) 
+- 📄 [Resume]((http://sunil-resume-bucket.s3-website-us-east-1.amazonaws.com/)) 
  
 
 ---
