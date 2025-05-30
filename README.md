@@ -51,7 +51,7 @@ I'm currently pursuing my Master’s degree, while working on real-world project
 
 - 📧 Email: gangupamu.sunil30@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunil-gangupamu-16487b227/)
-- 📄 [Resume]((http://sunil-resume-bucket.s3-website-us-east-1.amazonaws.com/)) 
+- 📄 [Resume]((http://sunil-resume-bucket.s3-website-us-east-1.amazonaws.com)) 
  
 
 ---
